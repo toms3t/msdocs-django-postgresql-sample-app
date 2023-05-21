@@ -12,6 +12,5 @@ mypy-extensions==1.0.0
 packaging==23.1
 pathspec==0.11.1
 platformdirs==3.5.0
-psycopg2-binary==2.9.5
 soupsieve==2.4.1
 sqlparse==0.4.4
